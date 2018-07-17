@@ -8,3 +8,5 @@ install:
 script: 
   - npm run-script build
   - echo "Build finished."
+after_success:
+  - .travis/push.sh
