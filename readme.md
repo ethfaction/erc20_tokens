@@ -2,11 +2,11 @@
 
 Do a **GET** request on https://ethfaction.github.io/erc20_tokens/<network_version>/<data_format> for a consolidated json data of all the ERC20 Tokens on ethereum network.
 
-Example APIs:
+## Example APIs:
 
-## Mainnet
+### Mainnet
 ```
-https://ethfaction.github.io/erc20_tokens/mainnet/symbol_to_contract
+GET https://ethfaction.github.io/erc20_tokens/mainnet/symbol_to_contract
 
 response:
 {
@@ -16,7 +16,7 @@ response:
 }
 ```
 ```
-https://ethfaction.github.io/erc20_tokens/mainnet/contract_to_symbol
+GET https://ethfaction.github.io/erc20_tokens/mainnet/contract_to_symbol
 
 response:
 {
