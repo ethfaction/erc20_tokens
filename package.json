@@ -1,0 +1,31 @@
+{
+  "name": "erc20_tokens",
+  "version": "1.0.0",
+  "description": "Standard list of ERC20 Tokens with details on Ethereum Network",
+  "main": "docs/",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethfaction/erc20_tokens.git"
+  },
+  "keywords": [
+    "erc20",
+    "tokens",
+    "ethereum"
+  ],
+  "author": "Yadunandan Batchu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethfaction/erc20_tokens/issues"
+  },
+  "homepage": "https://github.com/ethfaction/erc20_tokens#readme",
+  "dependencies": {
+    "jsonfile": "^4.0.0"
+  }
+}
