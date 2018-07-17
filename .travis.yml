@@ -3,7 +3,6 @@ node_js:
   - "7"
 before_install: 
   - echo "Installing modules"
-  - chmod +x .travis/push.sh
 install: 
   - npm install
 script: 
