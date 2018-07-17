@@ -2,6 +2,8 @@
 
 Do a **GET** request on https://ethfaction.github.io/erc20_tokens/<network_version>/<data_format> for a consolidated json data of all the ERC20 Tokens on ethereum network.
 
+** Raise-issue/Pull-request to add any missing token details **
+
 ## Example APIs:
 
 ### Mainnet
@@ -39,6 +41,7 @@ response:
         "name": "Aurora DAO",
         "contract_address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
         "precision": 18
-    }
+    },
+    ...
 }
 ```
