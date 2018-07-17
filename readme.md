@@ -1,0 +1,1 @@
+Do GET request on "https://ethfaction.github.io/erc20_tokens" for consolidated json data of all the ERC20 Tokens on ethereum.

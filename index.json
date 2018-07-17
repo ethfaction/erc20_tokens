@@ -1,3 +1,8 @@
-{
-    "first_key": "Test Value"
-}
+[
+    {
+        "symbol": "TST",
+        "name": "Test Standard Token",
+        "contract_address": "0x3eFd578b271d034a69499E4A2d933C631D44B9aD",
+        "precision": 18
+    }
+]
