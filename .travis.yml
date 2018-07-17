@@ -1,4 +1,10 @@
 language: node_js
-before_install: echo "Installing modules"
-install: npm install
-script: npm run-script build
+node_js:
+  - "7"
+before_install: 
+  - echo "Installing modules"
+install: 
+  - npm install
+script: 
+  - npm run-script build
+  - echo "Build finished."
