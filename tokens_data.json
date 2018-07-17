@@ -3,12 +3,14 @@
         "symbol": "TST",
         "name": "Test Standard Token",
         "contract_address": "0x3eFd578b271d034a69499E4A2d933C631D44B9aD",
-        "precision": 18
+        "precision": 18,
+        "description": "For testing of ERC-20 token apps. Create free TST by calling showMeTheMoney(address _to, uint256 _value)."
     },
     {
         "symbol": "AURA",
         "name": "Aurora DAO",
         "contract_address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
-        "precision": 18
+        "precision": 18,
+        "description": "Aurora DAO is a suite of dApps and protocols that together comprise a fully decentralized and autonomous banking and finance platform. Aurora provides an advanced, open, and stable financial network, accessible by anyone in the world regardless of geographic location or class status. The native network token AURA is an ERC20 token, that aligns the interests of Aurora and the Snowglobe (a fully decentralized exchange protocol) operators."
     }
 ]
