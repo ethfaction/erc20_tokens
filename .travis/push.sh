@@ -6,13 +6,13 @@ setup_git() {
 }
 
 commit_website_files() {
-  git checkout -b master
+  git checkout master
   git add .
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
-  git remote add origin https://${GH_TOKEN}@github.com/ethfaction/erc20_tokens.git > /dev/null 2>&1
+  git remote add origin https://$GH_TOKEN@github.com/ethfaction/erc20_tokens.git > /dev/null 2>&1
   git push --quiet --set-upstream origin master 
 }
 
