@@ -6252,5 +6252,1500 @@
         "name": "Hybrid Block",
         "contract_address": "0x6059F55751603eAd7Dc6d280ad83A7B33D837C90",
         "decimals": 18
+    },
+    {
+        "symbol": "$FFC",
+        "contract_address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
+        "decimals": 18
+    },
+    {
+        "symbol": "$TEAK",
+        "contract_address": "0x7DD7F56D697Cc0f2b52bD55C057f378F1fE6Ab4b",
+        "decimals": 18
+    },
+    {
+        "symbol": "1WO",
+        "contract_address": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
+        "decimals": 8
+    },
+    {
+        "symbol": "2DC",
+        "contract_address": "0x9fC0583220eB44fAeE9e2dc1E63F39204DDD9090",
+        "decimals": 18
+    },
+    {
+        "symbol": "300",
+        "contract_address": "0xaEc98A708810414878c3BCDF46Aad31dEd4a4557",
+        "decimals": 18
+    },
+    {
+        "symbol": "A18",
+        "contract_address": "0xBDe8f7820b5544a49D34F9dDeaCAbEDC7C0B5adc",
+        "decimals": 0
+    },
+    {
+        "symbol": "ADL",
+        "contract_address": "0x660e71483785f66133548B10f6926dC332b06e61",
+        "decimals": 18
+    },
+    {
+        "symbol": "AKC",
+        "contract_address": "0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+        "decimals": 18
+    },
+    {
+        "symbol": "ALTS",
+        "contract_address": "0x638AC149eA8EF9a1286C41B977017AA7359E6Cfa",
+        "decimals": 18
+    },
+    {
+        "symbol": "AMO",
+        "contract_address": "0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169",
+        "decimals": 18
+    },
+    {
+        "symbol": "AMTC",
+        "contract_address": "0x84936cF7630AA3e27Dd9AfF968b140d5AEE49F5a",
+        "decimals": 8
+    },
+    {
+        "symbol": "APT",
+        "contract_address": "0x23aE3C5B39B12f0693e05435EeaA1e51d8c61530",
+        "decimals": 18
+    },
+    {
+        "symbol": "ARCT",
+        "contract_address": "0x1245ef80F4d9e02ED9425375e8F649B9221b31D8",
+        "decimals": 8
+    },
+    {
+        "symbol": "ARD",
+        "contract_address": "0x75Aa7B0d02532f3833b66c7f0Ad35376d373ddF8",
+        "decimals": 18
+    },
+    {
+        "symbol": "ARX",
+        "contract_address": "0x7705FaA34B16EB6d77Dfc7812be2367ba6B0248e",
+        "decimals": 8
+    },
+    {
+        "symbol": "ARXT",
+        "contract_address": "0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+        "decimals": 18
+    },
+    {
+        "symbol": "ATH (AIgatha Token)",
+        "contract_address": "0x1543d0F83489e82A1344DF6827B23d541F235A50",
+        "decimals": 18
+    },
+    {
+        "symbol": "ATH (Athenian Warrior Token)",
+        "contract_address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+        "decimals": 18
+    },
+    {
+        "symbol": "ATTN",
+        "contract_address": "0x6339784d9478dA43106A429196772A029C2f177d",
+        "decimals": 18
+    },
+    {
+        "symbol": "AVA",
+        "contract_address": "0xeD247980396B10169BB1d36f6e278eD16700a60f",
+        "decimals": 4
+    },
+    {
+        "symbol": "AX1",
+        "contract_address": "0xCd4b4b0F3284a33AC49C67961EC6e111708318Cf",
+        "decimals": 5
+    },
+    {
+        "symbol": "BANX",
+        "contract_address": "0xF87F0D9153fea549c728Ad61cb801595a68b73de",
+        "decimals": 18
+    },
+    {
+        "symbol": "BCBC",
+        "contract_address": "0x7367A68039d4704f30BfBF6d948020C3B07DFC59",
+        "decimals": 18
+    },
+    {
+        "symbol": "BCDN",
+        "contract_address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+        "decimals": 15
+    },
+    {
+        "symbol": "BCL",
+        "contract_address": "0xbc1234552EBea32B5121190356bBa6D3Bb225bb5",
+        "decimals": 18
+    },
+    {
+        "symbol": "BCPT",
+        "contract_address": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
+        "decimals": 18
+    },
+    {
+        "symbol": "BCV",
+        "contract_address": "0x1014613E2B3CBc4d575054D4982E580d9b99d7B1",
+        "decimals": 8
+    },
+    {
+        "symbol": "BeerCoin",
+        "contract_address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac",
+        "decimals": 0
+    },
+    {
+        "symbol": "BETHER",
+        "contract_address": "0x14C926F2290044B647e1Bf2072e67B495eff1905",
+        "decimals": 18
+    },
+    {
+        "symbol": "BKB",
+        "contract_address": "0xB2Bfeb70B903F1BAaC7f2ba2c62934C7e5B974C4",
+        "decimals": 8
+    },
+    {
+        "symbol": "BMT",
+        "contract_address": "0xf028ADEe51533b1B47BEaa890fEb54a457f51E89",
+        "decimals": 18
+    },
+    {
+        "symbol": "BMX",
+        "contract_address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+        "decimals": 18
+    },
+    {
+        "symbol": "BNC",
+        "contract_address": "0xdD6Bf56CA2ada24c683FAC50E37783e55B57AF9F",
+        "decimals": 12
+    },
+    {
+        "symbol": "BNFT",
+        "contract_address": "0xdA2C424Fc98c741c2d4ef2f42897CEfed897CA75",
+        "decimals": 9
+    },
+    {
+        "symbol": "BON",
+        "contract_address": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
+        "decimals": 18
+    },
+    {
+        "symbol": "BOU",
+        "contract_address": "0xC2C63F23ec5E97efbD7565dF9Ec764FDc7d4e91d",
+        "decimals": 18
+    },
+    {
+        "symbol": "BTCL",
+        "contract_address": "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
+        "decimals": 8
+    },
+    {
+        "symbol": "BTH",
+        "contract_address": "0xFAd572db566E5234AC9Fc3d570c4EdC0050eAA92",
+        "decimals": 18
+    },
+    {
+        "symbol": "BTK",
+        "contract_address": "0xdb8646F5b487B5Dd979FAC618350e85018F557d4",
+        "decimals": 18
+    },
+    {
+        "symbol": "BTL (Battle)",
+        "contract_address": "0x2accaB9cb7a48c3E82286F0b2f8798D201F4eC3f",
+        "decimals": 18
+    },
+    {
+        "symbol": "BTL (Bitlle)",
+        "contract_address": "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
+        "decimals": 4
+    },
+    {
+        "symbol": "BTQ",
+        "contract_address": "0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3",
+        "decimals": 18
+    },
+    {
+        "symbol": "BTT (Bitether)",
+        "contract_address": "0x080aa07E2C7185150d7e4DA98838A8d2feac3dfC",
+        "decimals": 0
+    },
+    {
+        "symbol": "BUC",
+        "contract_address": "0xCa3c18a65b802eC267f8f4802545e7F53D24C75e",
+        "decimals": 18
+    },
+    {
+        "symbol": "CAR",
+        "contract_address": "0x423e4322CDDa29156b49a17dfbd2aCC4b280600D",
+        "decimals": 9
+    },
+    {
+        "symbol": "CARB",
+        "contract_address": "0xA517a46Baad6B054A76bD19c46844f717fe69fea",
+        "decimals": 8
+    },
+    {
+        "symbol": "CARE",
+        "contract_address": "0xbF18F246B9301F231e9561B35A3879769BB46375",
+        "decimals": 18
+    },
+    {
+        "symbol": "CATs (BitClave)_Old",
+        "contract_address": "0x68e14bb5A45B9681327E16E528084B9d962C1a39",
+        "decimals": 18
+    },
+    {
+        "symbol": "CC3",
+        "contract_address": "0xc166038705FFBAb3794185b3a9D925632A1DF37D",
+        "decimals": 18
+    },
+    {
+        "symbol": "CCC (CryptoCrashCourse)",
+        "contract_address": "0x28577A6d31559bd265Ce3ADB62d0458550F7b8a7",
+        "decimals": 18
+    },
+    {
+        "symbol": "CCLC",
+        "contract_address": "0xd348e07A2806505B856123045d27aeeD90924b50",
+        "decimals": 8
+    },
+    {
+        "symbol": "CCS",
+        "contract_address": "0x315cE59FAFd3A8d562b7Ec1C8542382d2710b06c",
+        "decimals": 18
+    },
+    {
+        "symbol": "CDL",
+        "contract_address": "0x8a95ca448A52C0ADf0054bB3402dC5e09CD6B232",
+        "decimals": 18
+    },
+    {
+        "symbol": "CDX (Carbon Dollar X)",
+        "contract_address": "0x2cb101d7dA0ebaA57D3F2fEf46D7FFB7BB64592B",
+        "decimals": 0
+    },
+    {
+        "symbol": "CDX (Network)",
+        "contract_address": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
+        "decimals": 18
+    },
+    {
+        "symbol": "CFC",
+        "contract_address": "0x5Dff89a2caa4D76bc286F74D67Bd718eb834da61",
+        "decimals": 18
+    },
+    {
+        "symbol": "CK",
+        "contract_address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+        "decimals": 0
+    },
+    {
+        "symbol": "CLB",
+        "contract_address": "0xb1c1Cb8C7c1992dba24e628bF7d38E71daD46aeB",
+        "decimals": 18
+    },
+    {
+        "symbol": "CLL",
+        "contract_address": "0x3dC9a42fa7Afe57BE03c58fD7F4411b1E466C508",
+        "decimals": 18
+    },
+    {
+        "symbol": "CLP",
+        "contract_address": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
+        "decimals": 9
+    },
+    {
+        "symbol": "CMBT",
+        "contract_address": "0x3EDD235C3E840C1F29286B2e39370a255C7B6fdb",
+        "decimals": 8
+    },
+    {
+        "symbol": "CMC",
+        "contract_address": "0x7e667525521cF61352e2E01b50FaaaE7Df39749a",
+        "decimals": 18
+    },
+    {
+        "symbol": "CNB",
+        "contract_address": "0xEBf2F9E8De960f64ec0fDCDa6Cb282423133347B",
+        "decimals": 8
+    },
+    {
+        "symbol": "CO2",
+        "contract_address": "0xB4b1D2C217EC0776584CE08D3DD98F90EDedA44b",
+        "decimals": 18
+    },
+    {
+        "symbol": "CO2Bit",
+        "contract_address": "0x574B36BceD443338875d171CC377E691f7d4F887",
+        "decimals": 18
+    },
+    {
+        "symbol": "COIL",
+        "contract_address": "0x0C91B015AbA6f7B4738dcD36E7410138b29ADC29",
+        "decimals": 8
+    },
+    {
+        "symbol": "COSS (coss.io)",
+        "contract_address": "0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C",
+        "decimals": 18
+    },
+    {
+        "symbol": "CPEX",
+        "contract_address": "0xb787d4eAc8899730bb8C57fc3c998c49c5244ec0",
+        "decimals": 8
+    },
+    {
+        "symbol": "CR7",
+        "contract_address": "0x7F585B9130c64e9e9F470b618A7badD03D79cA7E",
+        "decimals": 18
+    },
+    {
+        "symbol": "CRB",
+        "contract_address": "0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
+        "decimals": 8
+    },
+    {
+        "symbol": "CRT",
+        "contract_address": "0xF0da1186a4977226b9135d0613ee72e229EC3F4d",
+        "decimals": 18
+    },
+    {
+        "symbol": "CryptoCarbon",
+        "contract_address": "0xE4c94d45f7Aef7018a5D66f44aF780ec6023378e",
+        "decimals": 6
+    },
+    {
+        "symbol": "CTG",
+        "contract_address": "0xC87c5dD86A3d567fF28701886fB0745aaa898da4",
+        "decimals": 18
+    },
+    {
+        "symbol": "CTGC",
+        "contract_address": "0x9E7D29bd499B6c7da2a5B2EaFCF4A39d3BD845D1",
+        "decimals": 18
+    },
+    {
+        "symbol": "CTL",
+        "contract_address": "0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
+        "decimals": 2
+    },
+    {
+        "symbol": "Cubrix",
+        "contract_address": "0x05C3617cBf1304b9260AA61ec960F115D67beCEA",
+        "decimals": 18
+    },
+    {
+        "symbol": "CXC",
+        "contract_address": "0x2134057C0b461F898D375Cead652Acae62b59541",
+        "decimals": 18
+    },
+    {
+        "symbol": "DAB",
+        "contract_address": "0xdab0C31BF34C897Fb0Fe90D12EC9401caf5c36Ec",
+        "decimals": 0
+    },
+    {
+        "symbol": "DAO",
+        "contract_address": "0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
+        "decimals": 16
+    },
+    {
+        "symbol": "DATABroker",
+        "contract_address": "0x1B5f21ee98eed48d292e8e2d3Ed82b40a9728A22",
+        "decimals": 18
+    },
+    {
+        "symbol": "DCA",
+        "contract_address": "0x386Faa4703a34a7Fdb19Bec2e14Fd427C9638416",
+        "decimals": 18
+    },
+    {
+        "symbol": "DCL",
+        "contract_address": "0x399A0e6FbEb3d74c85357439f4c8AeD9678a5cbF",
+        "decimals": 3
+    },
+    {
+        "symbol": "DEPO",
+        "contract_address": "0x7cF271966F36343Bf0150F25E5364f7961c58201",
+        "decimals": 0
+    },
+    {
+        "symbol": "Devcon2 Token",
+        "contract_address": "0xdd94De9cFE063577051A5eb7465D08317d8808B6",
+        "decimals": 0
+    },
+    {
+        "symbol": "DGS",
+        "contract_address": "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b",
+        "decimals": 8
+    },
+    {
+        "symbol": "DGX1",
+        "contract_address": "0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855",
+        "decimals": 9
+    },
+    {
+        "symbol": "DIP (Decentralized Insurance Protocol)",
+        "contract_address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+        "decimals": 18
+    },
+    {
+        "symbol": "DIVX",
+        "contract_address": "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
+        "decimals": 18
+    },
+    {
+        "symbol": "DNX",
+        "contract_address": "0xE43E2041dc3786e166961eD9484a5539033d10fB",
+        "decimals": 18
+    },
+    {
+        "symbol": "DOW",
+        "contract_address": "0x76974C7B79dC8a6a109Fd71fd7cEb9E40eff5382",
+        "decimals": 18
+    },
+    {
+        "symbol": "DROP (droplex)",
+        "contract_address": "0x3c75226555FC496168d48B88DF83B95F16771F37",
+        "decimals": 0
+    },
+    {
+        "symbol": "DRVH",
+        "contract_address": "0x62D4c04644314F35868Ba4c65cc27a77681dE7a9",
+        "decimals": 18
+    },
+    {
+        "symbol": "DRP (Dripcoin)",
+        "contract_address": "0x2799D90C6d44Cb9Aa5fBC377177F16C33E056b82",
+        "decimals": 0
+    },
+    {
+        "symbol": "DSC",
+        "contract_address": "0x1e09BD8Cadb441632e441Db3e1D79909EE0A2256",
+        "decimals": 1
+    },
+    {
+        "symbol": "DTR",
+        "contract_address": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+        "decimals": 8
+    },
+    {
+        "symbol": "DTT",
+        "contract_address": "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676",
+        "decimals": 18
+    },
+    {
+        "symbol": "DTX",
+        "contract_address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+        "decimals": 18
+    },
+    {
+        "symbol": "DTx",
+        "contract_address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+        "decimals": 18
+    },
+    {
+        "symbol": "DUBI",
+        "contract_address": "0x9c6Fa42209169bCeA032e401188a6fc3e9C9f59c",
+        "decimals": 18
+    },
+    {
+        "symbol": "ECP",
+        "contract_address": "0xAEA1C18A992984831002D0cf90E291FB52d72649",
+        "decimals": 18
+    },
+    {
+        "symbol": "ECO2",
+        "contract_address": "0x17F93475d2A978f527c3f7c44aBf44AdfBa60D5C",
+        "decimals": 2
+    },
+    {
+        "symbol": "EDC",
+        "contract_address": "0xFA1DE2Ee97e4c10C94C91Cb2b5062b89Fb140b82",
+        "decimals": 6
+    },
+    {
+        "symbol": "EDU",
+        "contract_address": "0x2A22e5cCA00a3D63308fa39f29202eB1b39eEf52",
+        "decimals": 18
+    },
+    {
+        "symbol": "EHT",
+        "contract_address": "0xf9F0FC7167c311Dd2F1e21E9204F87EBA9012fB2",
+        "decimals": 8
+    },
+    {
+        "symbol": "EMON",
+        "contract_address": "0xb67b88a25708a35AE7c2d736D398D268CE4f7F83",
+        "decimals": 8
+    },
+    {
+        "symbol": "EMONT",
+        "contract_address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+        "decimals": 8
+    },
+    {
+        "symbol": "ENC",
+        "contract_address": "0x039F5050dE4908f9b5ddF40A4F3Aa3f329086387",
+        "decimals": 18
+    },
+    {
+        "symbol": "ENTRP",
+        "contract_address": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3",
+        "decimals": 18
+    },
+    {
+        "symbol": "EOS",
+        "contract_address": "0x86Fa049857E0209aa7D9e616F7eb3b3B78ECfdb0",
+        "decimals": 18
+    },
+    {
+        "symbol": "eosDAC",
+        "contract_address": "0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa",
+        "decimals": 18
+    },
+    {
+        "symbol": "EPX",
+        "contract_address": "0x35BAA72038F127f9f8C8f9B491049f64f377914d",
+        "decimals": 4
+    },
+    {
+        "symbol": "ETCH",
+        "contract_address": "0xDd74a7A3769fA72561B3A69e65968F49748c690c",
+        "decimals": 18
+    },
+    {
+        "symbol": "ETHB",
+        "contract_address": "0x3a26746Ddb79B1B8e4450e3F4FFE3285A307387E",
+        "decimals": 8
+    },
+    {
+        "symbol": "ETR",
+        "contract_address": "0x6927C69fb4daf2043fbB1Cb7b86c5661416bea29",
+        "decimals": 18
+    },
+    {
+        "symbol": "EURT",
+        "contract_address": "0xAbdf147870235FcFC34153828c769A70B3FAe01F",
+        "decimals": 6
+    },
+    {
+        "symbol": "eUSD",
+        "contract_address": "0x523630976eB6147621B5c31c781eBe2Ec2a806E0",
+        "decimals": 18
+    },
+    {
+        "symbol": "E₹",
+        "contract_address": "0xb67734521eAbBE9C773729dB73E16CC2dfb20A58",
+        "decimals": 2
+    },
+    {
+        "symbol": "FAN",
+        "contract_address": "0x90162f41886c0946D09999736f1C15c8a105A421",
+        "decimals": 18
+    },
+    {
+        "symbol": "FANX",
+        "contract_address": "0x7f6715c3FC4740A02F70De85B9FD50ac6001fEd9",
+        "decimals": 18
+    },
+    {
+        "symbol": "FLMC",
+        "contract_address": "0x04cC783b450b8D11F3C7d00DD03fDF7FB51fE9F2",
+        "decimals": 18
+    },
+    {
+        "symbol": "FLP",
+        "contract_address": "0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3",
+        "decimals": 18
+    },
+    {
+        "symbol": "FLR",
+        "contract_address": "0x9aeFBE0b3C3ba9Eab262CB9856E8157AB7648e09",
+        "decimals": 18
+    },
+    {
+        "symbol": "FRD",
+        "contract_address": "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
+        "decimals": 18
+    },
+    {
+        "symbol": "FTC",
+        "contract_address": "0xe6f74dcfa0E20883008d8C16b6d9a329189D0C30",
+        "decimals": 2
+    },
+    {
+        "symbol": "FTT",
+        "contract_address": "0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+        "decimals": 18
+    },
+    {
+        "symbol": "FXC",
+        "contract_address": "0xc92D6E3E64302C59d734f3292E2A13A13D7E1817",
+        "decimals": 8
+    },
+    {
+        "symbol": "GAM",
+        "contract_address": "0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
+        "decimals": 8
+    },
+    {
+        "symbol": "GANA",
+        "contract_address": "0xc0EA6306F6360FE7dCAB65D16Bf1a3AF92C79Aa2",
+        "decimals": 18
+    },
+    {
+        "symbol": "GAVEL",
+        "contract_address": "0x708876f486e448Ee89eB332bFbC8E593553058b9",
+        "decimals": 18
+    },
+    {
+        "symbol": "GBT",
+        "contract_address": "0x7585F835ae2d522722d2684323a0ba83401f32f5",
+        "decimals": 18
+    },
+    {
+        "symbol": "GCP",
+        "contract_address": "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
+        "decimals": 18
+    },
+    {
+        "symbol": "GEE",
+        "contract_address": "0x4F4f0Db4de903B88f2B1a2847971E231D54F8fd3",
+        "decimals": 8
+    },
+    {
+        "symbol": "GELD",
+        "contract_address": "0x24083Bb30072643C3bB90B44B7285860a755e687",
+        "decimals": 18
+    },
+    {
+        "symbol": "GIF",
+        "contract_address": "0xFcD862985628b254061F7A918035B80340D045d3",
+        "decimals": 18
+    },
+    {
+        "symbol": "GNT",
+        "contract_address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+        "decimals": 18
+    },
+    {
+        "symbol": "GOLDX",
+        "contract_address": "0xeAb43193CF0623073Ca89DB9B712796356FA7414",
+        "decimals": 18
+    },
+    {
+        "symbol": "GROW",
+        "contract_address": "0x0a9A9ce600D08BF9b76F49FA4e7b38A67EBEB1E6",
+        "decimals": 8
+    },
+    {
+        "symbol": "GSE",
+        "contract_address": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+        "decimals": 4
+    },
+    {
+        "symbol": "GTC",
+        "contract_address": "0xB70835D7822eBB9426B56543E391846C107bd32C",
+        "decimals": 18
+    },
+    {
+        "symbol": "GTO",
+        "contract_address": "0xC5bBaE50781Be1669306b9e001EFF57a2957b09d",
+        "decimals": 5
+    },
+    {
+        "symbol": "GXC",
+        "contract_address": "0x58ca3065C0F24C7c96Aee8d6056b5B5deCf9c2f8",
+        "decimals": 10
+    },
+    {
+        "symbol": "GXVC",
+        "contract_address": "0x22F0AF8D78851b72EE799e05F54A77001586B18A",
+        "decimals": 10
+    },
+    {
+        "symbol": "Hdp",
+        "contract_address": "0xE9fF07809CCff05daE74990e25831d0Bc5cbe575",
+        "decimals": 18
+    },
+    {
+        "symbol": "Hdp.ф",
+        "contract_address": "0x84543F868eC1b1FAC510d49d13C069f64cD2d5f9",
+        "decimals": 18
+    },
+    {
+        "symbol": "HIG",
+        "contract_address": "0xa9240fBCAC1F0b9A6aDfB04a53c8E3B0cC1D1444",
+        "decimals": 18
+    },
+    {
+        "symbol": "HKG",
+        "contract_address": "0x14F37B574242D366558dB61f3335289a5035c506",
+        "decimals": 3
+    },
+    {
+        "symbol": "HKY",
+        "contract_address": "0x88aC94D5d175130347Fc95E109d77AC09dbF5ab7",
+        "decimals": 18
+    },
+    {
+        "symbol": "HODL",
+        "contract_address": "0xb45d7Bc4cEBcAB98aD09BABDF8C818B2292B672c",
+        "decimals": 18
+    },
+    {
+        "symbol": "HOT (Hydro Protocol)",
+        "contract_address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+        "decimals": 18
+    },
+    {
+        "symbol": "IAD",
+        "contract_address": "0xC1E2097d788d33701BA3Cc2773BF67155ec93FC4",
+        "decimals": 18
+    },
+    {
+        "symbol": "ICO",
+        "contract_address": "0xa33e729bf4fdeb868B534e1f20523463D9C46bEe",
+        "decimals": 10
+    },
+    {
+        "symbol": "IIC",
+        "contract_address": "0x16662F73dF3e79e54c6c5938b4313f92C524C120",
+        "decimals": 18
+    },
+    {
+        "symbol": "IKB",
+        "contract_address": "0x88AE96845e157558ef59e9Ff90E766E22E480390",
+        "decimals": 0
+    },
+    {
+        "symbol": "IMC",
+        "contract_address": "0xe3831c5A982B279A198456D577cfb90424cb6340",
+        "decimals": 6
+    },
+    {
+        "symbol": "IMT",
+        "contract_address": "0x22E5F62D0FA19974749faa194e3d3eF6d89c08d7",
+        "decimals": 0
+    },
+    {
+        "symbol": "INRM",
+        "contract_address": "0x48e5413b73add2434e47504E2a22d14940dBFe78",
+        "decimals": 3
+    },
+    {
+        "symbol": "IoT",
+        "contract_address": "0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
+        "decimals": 6
+    },
+    {
+        "symbol": "JBX",
+        "contract_address": "0x884e3902C4d5cFA86de4aCE7A96AA91EbC25C0Ff",
+        "decimals": 0
+    },
+    {
+        "symbol": "JetCoins",
+        "contract_address": "0x773450335eD4ec3DB45aF74f34F2c85348645D39",
+        "decimals": 18
+    },
+    {
+        "symbol": "JOY",
+        "contract_address": "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57",
+        "decimals": 6
+    },
+    {
+        "symbol": "KC",
+        "contract_address": "0x0D6DD9f68d24EC1d5fE2174f3EC8DAB52B52BaF5",
+        "decimals": 18
+    },
+    {
+        "symbol": "KEE",
+        "contract_address": "0x72D32ac1c5E66BfC5b08806271f8eEF915545164",
+        "decimals": 0
+    },
+    {
+        "symbol": "KEY (BihuKey)",
+        "contract_address": "0x4Cd988AfBad37289BAAf53C13e98E2BD46aAEa8c",
+        "decimals": 18
+    },
+    {
+        "symbol": "KPR",
+        "contract_address": "0xb5C33F965C8899D255c34CDD2A3efA8AbCbB3DeA",
+        "decimals": 18
+    },
+    {
+        "symbol": "KZN",
+        "contract_address": "0x9541FD8B9b5FA97381783783CeBF2F5fA793C262",
+        "decimals": 8
+    },
+    {
+        "symbol": "LA",
+        "contract_address": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
+        "decimals": 18
+    },
+    {
+        "symbol": "LEMO",
+        "contract_address": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
+        "decimals": 18
+    },
+    {
+        "symbol": "LFR",
+        "contract_address": "0xc798cd1c49db0E297312E4c682752668CE1dB2AD",
+        "decimals": 5
+    },
+    {
+        "symbol": "LIVE",
+        "contract_address": "0x24A77c1F17C547105E14813e517be06b0040aa76",
+        "decimals": 18
+    },
+    {
+        "symbol": "LNC-Linker Coin",
+        "contract_address": "0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
+        "decimals": 18
+    },
+    {
+        "symbol": "LOCUS",
+        "contract_address": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
+        "decimals": 18
+    },
+    {
+        "symbol": "LOK",
+        "contract_address": "0x21aE23B882A340A22282162086bC98D3E2B73018",
+        "decimals": 18
+    },
+    {
+        "symbol": "LUM",
+        "contract_address": "0xA89b5934863447f6E4Fc53B315a93e873bdA69a3",
+        "decimals": 18
+    },
+    {
+        "symbol": "M-ETH",
+        "contract_address": "0x3f4B726668da46f5e0E75aA5D478ACEc9f38210F",
+        "decimals": 18
+    },
+    {
+        "symbol": "MART",
+        "contract_address": "0xfdcc07Ab60660de533b5Ad26e1457b565a9D59Bd",
+        "decimals": 18
+    },
+    {
+        "symbol": "MESH",
+        "contract_address": "0x01F2AcF2914860331C1Cb1a9AcecDa7475e06Af8",
+        "decimals": 18
+    },
+    {
+        "symbol": "MEST",
+        "contract_address": "0x5B8D43FfdE4a2982B9A5387cDF21D54Ead64Ac8d",
+        "decimals": 18
+    },
+    {
+        "symbol": "MIT (Mainstreet)",
+        "contract_address": "0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+        "decimals": 18
+    },
+    {
+        "symbol": "MIT (Mychatcoin)",
+        "contract_address": "0xAd8DD4c725dE1D31b9E8F8D146089e9DC6882093",
+        "decimals": 6
+    },
+    {
+        "symbol": "MKT",
+        "contract_address": "0x7939882b54fcf0bCAe6b53dEc39Ad6e806176442",
+        "decimals": 8
+    },
+    {
+        "symbol": "MNE",
+        "contract_address": "0x1a95B271B0535D15fa49932Daba31BA612b52946",
+        "decimals": 8
+    },
+    {
+        "symbol": "MNT",
+        "contract_address": "0xA9877b1e05D035899131DBd1e403825166D09f92",
+        "decimals": 18
+    },
+    {
+        "symbol": "MRL",
+        "contract_address": "0x82125AFe01819Dff1535D0D6276d57045291B6c0",
+        "decimals": 18
+    },
+    {
+        "symbol": "MTR",
+        "contract_address": "0x7FC408011165760eE31bE2BF20dAf450356692Af",
+        "decimals": 8
+    },
+    {
+        "symbol": "MTX",
+        "contract_address": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+        "decimals": 18
+    },
+    {
+        "symbol": "MUXE",
+        "contract_address": "0x515669d308f887Fd83a471C7764F5d084886D34D",
+        "decimals": 18
+    },
+    {
+        "symbol": "MYD",
+        "contract_address": "0xf7e983781609012307f2514f63D526D83D24F466",
+        "decimals": 16
+    },
+    {
+        "symbol": "NAC",
+        "contract_address": "0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
+        "decimals": 18
+    },
+    {
+        "symbol": "NPER",
+        "contract_address": "0x4cE6B362Bc77A24966Dda9078f9cEF81b3B886a7",
+        "decimals": 18
+    },
+    {
+        "symbol": "NULS",
+        "contract_address": "0xB91318F35Bdb262E9423Bc7c7c2A3A93DD93C92C",
+        "decimals": 18
+    },
+    {
+        "symbol": "nUSD",
+        "contract_address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+        "decimals": 18
+    },
+    {
+        "symbol": "NXX",
+        "contract_address": "0x7627de4B93263a6a7570b8dAfa64bae812e5c394",
+        "decimals": 8
+    },
+    {
+        "symbol": "OCC",
+        "contract_address": "0x0235fE624e044A05eeD7A43E16E3083bc8A4287A",
+        "decimals": 18
+    },
+    {
+        "symbol": "OHNI",
+        "contract_address": "0x6f539a9456A5BCb6334A1A41207c3788f5825207",
+        "decimals": 18
+    },
+    {
+        "symbol": "OJX",
+        "contract_address": "0xBeef546ac8a4e0a80DC1E2d696968Ef54138f1d4",
+        "decimals": 18
+    },
+    {
+        "symbol": "OLD_MKR",
+        "contract_address": "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+        "decimals": 18
+    },
+    {
+        "symbol": "OMT",
+        "contract_address": "0x047187e53477be70DBe8Ea5B799318f2e165052F",
+        "decimals": 18
+    },
+    {
+        "symbol": "ONEK",
+        "contract_address": "0xB23be73573bC7E03DB6e5dfc62405368716d28a8",
+        "decimals": 18
+    },
+    {
+        "symbol": "onG",
+        "contract_address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+        "decimals": 18
+    },
+    {
+        "symbol": "ORBS",
+        "contract_address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+        "decimals": 18
+    },
+    {
+        "symbol": "PATENTS",
+        "contract_address": "0x694404595e3075A942397F466AAcD462FF1a7BD0",
+        "decimals": 18
+    },
+    {
+        "symbol": "PATH",
+        "contract_address": "0xF813F3902bBc00A6DCe378634d3B79D84F9803d7",
+        "decimals": 18
+    },
+    {
+        "symbol": "PBT",
+        "contract_address": "0xF4c07b1865bC326A3c01339492Ca7538FD038Cc0",
+        "decimals": 4
+    },
+    {
+        "symbol": "PCH",
+        "contract_address": "0xfcAC7A7515e9A9d7619fA77A1fa738111f66727e",
+        "decimals": 18
+    },
+    {
+        "symbol": "PET",
+        "contract_address": "0x5884969Ec0480556E11d119980136a4C17eDDEd1",
+        "decimals": 18
+    },
+    {
+        "symbol": "PETRO",
+        "contract_address": "0xeC18f898B4076A3E18f1089D33376CC380BDe61D",
+        "decimals": 18
+    },
+    {
+        "symbol": "PIPL",
+        "contract_address": "0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
+        "decimals": 8
+    },
+    {
+        "symbol": "PLASMA",
+        "contract_address": "0x59416A25628A76b4730eC51486114c32E0B582A1",
+        "decimals": 6
+    },
+    {
+        "symbol": "PLS",
+        "contract_address": "0xe43ac1714F7394173b15E7CfF31A63d523Ce4fB9",
+        "decimals": 18
+    },
+    {
+        "symbol": "POIN",
+        "contract_address": "0x43F6a1BE992deE408721748490772B15143CE0a7",
+        "decimals": 0
+    },
+    {
+        "symbol": "PRON",
+        "contract_address": "0xA3149E0fA0061A9007fAf307074cdCd290f0e2Fd",
+        "decimals": 8
+    },
+    {
+        "symbol": "PRPS",
+        "contract_address": "0xd94F2778e2B3913C53637Ae60647598bE588c570",
+        "decimals": 18
+    },
+    {
+        "symbol": "PRSP",
+        "contract_address": "0x0C04d4f331DA8dF75f9E2e271E3f3F1494C66C36",
+        "decimals": 9
+    },
+    {
+        "symbol": "PT",
+        "contract_address": "0x66497A283E0a007bA3974e837784C6AE323447de",
+        "decimals": 18
+    },
+    {
+        "symbol": "PTC",
+        "contract_address": "0x2a8E98e256f32259b5E5Cb55Dd63C8e891950666",
+        "decimals": 18
+    },
+    {
+        "symbol": "PTWO",
+        "contract_address": "0x5512e1D6A7BE424b4323126B4f9E86D023F95764",
+        "decimals": 18
+    },
+    {
+        "symbol": "PUC",
+        "contract_address": "0xEf6B4cE8C9Bc83744fbcdE2657b32eC18790458A",
+        "decimals": 0
+    },
+    {
+        "symbol": "PURC",
+        "contract_address": "0xe25ff6Eb959BCE67975778e46A47750C243B6B99",
+        "decimals": 18
+    },
+    {
+        "symbol": "PXT",
+        "contract_address": "0xc14830E53aA344E8c14603A91229A0b925b0B262",
+        "decimals": 8
+    },
+    {
+        "symbol": "QBX",
+        "contract_address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+        "decimals": 18
+    },
+    {
+        "symbol": "QRG",
+        "contract_address": "0xFFAA5ffc455d9131f8A2713A741fD1960330508B",
+        "decimals": 18
+    },
+    {
+        "symbol": "QTQ",
+        "contract_address": "0x2C3C1F05187dBa7A5f2Dd47Dca57281C4d4F183F",
+        "decimals": 18
+    },
+    {
+        "symbol": "QTUM",
+        "contract_address": "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC",
+        "decimals": 18
+    },
+    {
+        "symbol": "RAO",
+        "contract_address": "0x45eDb535942a8C84D9f4b5D37e1b25F91Ea4804c",
+        "decimals": 18
+    },
+    {
+        "symbol": "REBL",
+        "contract_address": "0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
+        "decimals": 18
+    },
+    {
+        "symbol": "RED",
+        "contract_address": "0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f",
+        "decimals": 18
+    },
+    {
+        "symbol": "RING",
+        "contract_address": "0x86E56f3c89a14528858e58B3De48c074538BAf2c",
+        "decimals": 18
+    },
+    {
+        "symbol": "RIPT",
+        "contract_address": "0xdd007278B667F6bef52fD0a4c23604aA1f96039a",
+        "decimals": 8
+    },
+    {
+        "symbol": "RLT",
+        "contract_address": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+        "decimals": 10
+    },
+    {
+        "symbol": "RNDR",
+        "contract_address": "0x0996bFb5D057faa237640E2506BE7B4f9C46de0B",
+        "decimals": 18
+    },
+    {
+        "symbol": "ROK",
+        "contract_address": "0xc9De4B7F0C3d991e967158E4D4bFA4b51Ec0b114",
+        "decimals": 18
+    },
+    {
+        "symbol": "ROUND",
+        "contract_address": "0x4993CB95c7443bdC06155c5f5688Be9D8f6999a5",
+        "decimals": 18
+    },
+    {
+        "symbol": "RTN",
+        "contract_address": "0x54b293226000ccBFC04DF902eEC567CB4C35a903",
+        "decimals": 18
+    },
+    {
+        "symbol": "S-A-PAT",
+        "contract_address": "0x1EC8fE51a9B6A3a6C427D17d9ECC3060fbc4a45c",
+        "decimals": 18
+    },
+    {
+        "symbol": "S-ETH",
+        "contract_address": "0x3eb91D237e491E0DEE8582c402D85CB440fb6b54",
+        "decimals": 18
+    },
+    {
+        "symbol": "SCANDI",
+        "contract_address": "0x78fE18e41f436e1981a3a60D1557c8a7a9370461",
+        "decimals": 2
+    },
+    {
+        "symbol": "SenSatorI",
+        "contract_address": "0x4cA74185532DC1789527194e5B9c866dD33F4E82",
+        "decimals": 18
+    },
+    {
+        "symbol": "SET",
+        "contract_address": "0xe06eda7435bA749b047380CEd49121ddE93334Ae",
+        "decimals": 0
+    },
+    {
+        "symbol": "SEXY",
+        "contract_address": "0x98F5e9b7F0e33956C0443E81bF7deB8B5b1ed545",
+        "decimals": 18
+    },
+    {
+        "symbol": "SGEL",
+        "contract_address": "0xa1ccc166faf0E998b3E33225A1A0301B1C86119D",
+        "decimals": 18
+    },
+    {
+        "symbol": "SGT (SelfieYo Gold Token)",
+        "contract_address": "0x37427576324fE1f3625c9102674772d7CF71377d",
+        "decimals": 18
+    },
+    {
+        "symbol": "SHIT",
+        "contract_address": "0xEF2E9966eb61BB494E5375d5Df8d67B7dB8A780D",
+        "decimals": 0
+    },
+    {
+        "symbol": "SIFT",
+        "contract_address": "0x8a187D5285d316bcBC9ADafc08b51d70a0d8e000",
+        "decimals": 0
+    },
+    {
+        "symbol": "SKO1",
+        "contract_address": "0x4994e81897a920c0FEA235eb8CEdEEd3c6fFF697",
+        "decimals": 18
+    },
+    {
+        "symbol": "SKRP (Phase 1)",
+        "contract_address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
+        "decimals": 18
+    },
+    {
+        "symbol": "SKRP (Phase 1-E)",
+        "contract_address": "0x324A48eBCbB46e61993931eF9D35F6697CD2901b",
+        "decimals": 18
+    },
+    {
+        "symbol": "SLT",
+        "contract_address": "0x7A5fF295Dc8239d5C2374E4D894202aAF029Cab6",
+        "decimals": 3
+    },
+    {
+        "symbol": "SLY",
+        "contract_address": "0x7928c8aBF1F74eF9F96D4D0a44e3b4209d360785",
+        "decimals": 18
+    },
+    {
+        "symbol": "SMART",
+        "contract_address": "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
+        "decimals": 0
+    },
+    {
+        "symbol": "SMT (Smart Node)",
+        "contract_address": "0x2dCFAAc11c9EebD8C6C42103Fe9e2a6AD237aF27",
+        "decimals": 18
+    },
+    {
+        "symbol": "SMT (SmartMesh)",
+        "contract_address": "0x55F93985431Fc9304077687a35A1BA103dC1e081",
+        "decimals": 18
+    },
+    {
+        "symbol": "SPARC",
+        "contract_address": "0x58bf7df57d9DA7113c4cCb49d8463D4908C735cb",
+        "decimals": 18
+    },
+    {
+        "symbol": "SPARTA",
+        "contract_address": "0x24AEF3BF1A47561500f9430D74Ed4097C47F51F2",
+        "decimals": 4
+    },
+    {
+        "symbol": "SSH",
+        "contract_address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+        "decimals": 18
+    },
+    {
+        "symbol": "STABIT",
+        "contract_address": "0x4A89cD486fA996ad50c0a63C35c78702f5422a50",
+        "decimals": 3
+    },
+    {
+        "symbol": "STAC",
+        "contract_address": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+        "decimals": 18
+    },
+    {
+        "symbol": "STC",
+        "contract_address": "0x629aEe55ed49581C33ab27f9403F7992A289ffd5",
+        "decimals": 18
+    },
+    {
+        "symbol": "STN",
+        "contract_address": "0x599346779e90fc3F5F997b5ea715349820F91571",
+        "decimals": 4
+    },
+    {
+        "symbol": "TBC2",
+        "contract_address": "0xFACCD5Fc83c3E4C3c1AC1EF35D15adf06bCF209C",
+        "decimals": 8
+    },
+    {
+        "symbol": "TBT",
+        "contract_address": "0xAFe60511341a37488de25Bef351952562E31fCc1",
+        "decimals": 8
+    },
+    {
+        "symbol": "THUG",
+        "contract_address": "0xfe7B915A0bAA0E79f85c5553266513F7C1c03Ed0",
+        "decimals": 18
+    },
+    {
+        "symbol": "TOOR",
+        "contract_address": "0x8eb965ee9cCFBCE76c0a06264492c0afEfc2826d",
+        "decimals": 18
+    },
+    {
+        "symbol": "TRC",
+        "contract_address": "0xcB3F902bf97626391bF8bA87264bbC3DC13469be",
+        "decimals": 18
+    },
+    {
+        "symbol": "TRCN",
+        "contract_address": "0x566Fd7999B1Fc3988022bD38507A48F0bCf22c77",
+        "decimals": 18
+    },
+    {
+        "symbol": "TWN",
+        "contract_address": "0x2eF1aB8a26187C58BB8aAeB11B2fC6D25C5c0716",
+        "decimals": 18
+    },
+    {
+        "symbol": "TWNKL",
+        "contract_address": "0xfbd0d1c77B501796A35D86cF91d65D9778EeE695",
+        "decimals": 3
+    },
+    {
+        "symbol": "UMKA",
+        "contract_address": "0x8e5afc69f6227A3ad75eD346c8723Bc62ce97123",
+        "decimals": 4
+    },
+    {
+        "symbol": "Unicorn",
+        "contract_address": "0x89205A3A3b2A69De6Dbf7f01ED13B2108B2c43e7",
+        "decimals": 0
+    },
+    {
+        "symbol": "USDM",
+        "contract_address": "0xD760ADdFb24D9C01Fe4Bfea7475C5e3636684058",
+        "decimals": 2
+    },
+    {
+        "symbol": "USDT",
+        "contract_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6
+    },
+    {
+        "symbol": "UUU",
+        "contract_address": "0x3543638eD4a9006E4840B105944271Bcea15605D",
+        "decimals": 18
+    },
+    {
+        "symbol": "VDOC",
+        "contract_address": "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa",
+        "decimals": 18
+    },
+    {
+        "symbol": "VENUS",
+        "contract_address": "0xEbeD4fF9fe34413db8fC8294556BBD1528a4DAca",
+        "decimals": 3
+    },
+    {
+        "symbol": "VERI",
+        "contract_address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+        "decimals": 18
+    },
+    {
+        "symbol": "VIBEX",
+        "contract_address": "0x882448f83d90B2bf477Af2eA79327fDEA1335D93",
+        "decimals": 18
+    },
+    {
+        "symbol": "VOC",
+        "contract_address": "0xc3bC9Eb71f75Ec439A6b6C8E8b746fCF5b62F703",
+        "decimals": 18
+    },
+    {
+        "symbol": "VRS",
+        "contract_address": "0x92E78dAe1315067a8819EFD6dCA432de9DCdE2e9",
+        "decimals": 6
+    },
+    {
+        "symbol": "WBA",
+        "contract_address": "0x74951B677de32D596EE851A233336926e6A2cd09",
+        "decimals": 7
+    },
+    {
+        "symbol": "WCT",
+        "contract_address": "0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+        "decimals": 18
+    },
+    {
+        "symbol": "WETH",
+        "contract_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18
+    },
+    {
+        "symbol": "WHEN",
+        "contract_address": "0xF4FE95603881D0e07954fD7605E0e9a916e42C44",
+        "decimals": 18
+    },
+    {
+        "symbol": "WHO",
+        "contract_address": "0xe933c0Cd9784414d5F278C114904F5A84b396919",
+        "decimals": 18
+    },
+    {
+        "symbol": "WIC",
+        "contract_address": "0x62CD07D414Ec50B68C7EcAa863a23d344f2d062f",
+        "decimals": 0
+    },
+    {
+        "symbol": "WLK",
+        "contract_address": "0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f",
+        "decimals": 18
+    },
+    {
+        "symbol": "WORK",
+        "contract_address": "0xD18e454D844eb0009D32E07A0Cde89E18d64CFb4",
+        "decimals": 18
+    },
+    {
+        "symbol": "WPC",
+        "contract_address": "0x62087245087125d3DB5B9A3D713d78E7BBc31e54",
+        "decimals": 18
+    },
+    {
+        "symbol": "WRK",
+        "contract_address": "0x71e8d74fF1C923E369D0e70DFb09866629C4DD35",
+        "decimals": 18
+    },
+    {
+        "symbol": "WYV",
+        "contract_address": "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff",
+        "decimals": 18
+    },
+    {
+        "symbol": "XCC",
+        "contract_address": "0x4d829f8C92a6691c56300D020c9e0dB984Cfe2BA",
+        "decimals": 18
+    },
+    {
+        "symbol": "XFS",
+        "contract_address": "0x16aF5bfb4Ae7E475b9aDC3Bf5Cb2f1E6a50d7940",
+        "decimals": 8
+    },
+    {
+        "symbol": "XGG",
+        "contract_address": "0xf6b6AA0Ef0f5Edc2C1c5d925477F97eAF66303e7",
+        "decimals": 8
+    },
+    {
+        "symbol": "XGM",
+        "contract_address": "0x533ef0984b2FAA227AcC620C67cce12aA39CD8CD",
+        "decimals": 8
+    },
+    {
+        "symbol": "XID",
+        "contract_address": "0xB110eC7B1dcb8FAB8dEDbf28f53Bc63eA5BEdd84",
+        "decimals": 8
+    },
+    {
+        "symbol": "XNT",
+        "contract_address": "0x572E6f318056ba0C5d47A422653113843D250691",
+        "decimals": 0
+    },
+    {
+        "symbol": "XPAT",
+        "contract_address": "0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82",
+        "decimals": 18
+    },
+    {
+        "symbol": "YUPIE",
+        "contract_address": "0x0F33bb20a282A7649C7B3AFf644F084a9348e933",
+        "decimals": 18
+    },
+    {
+        "symbol": "ZAP",
+        "contract_address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
+        "decimals": 18
+    },
+    {
+        "symbol": "ZMN",
+        "contract_address": "0x554FFc77F4251a9fB3c0E3590a6a205f8d4e067D",
+        "decimals": 18
+    },
+    {
+        "symbol": "ZST",
+        "contract_address": "0xe386B139Ed3715Ca4B18Fd52671bDcea1cdFE4b1",
+        "decimals": 8
     }
 ]
