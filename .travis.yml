@@ -7,6 +7,18 @@ install:
   - npm install
 jobs:
   include:
+    - script: npm run-script build
+    - script: echo "build finished!"
+    - stage: gh-pages push
+      script: echo "pushing changes to gh-pages ..."
+      deploy:
+        provider: pages
+        local-dir: docs
+        skip-cleanup: true
+        github-token: $GH_TOKEN
+        keep-history: true
+        on:
+          branch: master
     - stage: npm release
       node_js: "7"
       script: echo "deploying to npm ..."
@@ -18,15 +30,3 @@ jobs:
         on:
           branch: master
           tags: true
-    - stage: gh-pages push
-      script: npm run-script build
-      script: echo "build finished!"
-      script: echo "pushing changes to gh-pages ..."
-      deploy:
-        provider: pages
-        local-dir: docs
-        skip-cleanup: true
-        github-token: $GH_TOKEN
-        keep-history: true
-        on:
-          branch: master
