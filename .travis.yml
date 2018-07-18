@@ -19,9 +19,8 @@ jobs:
           branch: master
           tags: true
     - stage: gh-pages push
-      script: 
-        - npm run-script build
-        - echo "Build finished"
+      script: npm run-script build
+      script: echo "build finished!"
       script: echo "pushing changes to gh-pages ..."
       deploy:
         provider: pages
