@@ -8,18 +8,26 @@ install:
 script: 
   - npm run-script build
   - echo "Build finished"
-deploy:
-  - provider: pages
-    local-dir: docs
-    skip-cleanup: true
-    github-token: $GH_TOKEN
-    keep-history: true
-    on:
-      branch: master
-  - provider: npm
-    local-dir: npm_module
-    email: nandubatchu@gmail.com
-    api_key: $NPM_TOKEN
-    on:
-      branch: master
-      tags: true
+jobs:
+  include:
+    - stage: npm release
+      node_js: "7"
+      script: echo "deploying to npm ..."
+      deploy:
+        provider: npm
+        local-dir: npm_module
+        email: nandubatchu@gmail.com
+        api_key: $NPM_TOKEN
+        on:
+          branch: master
+          tags: true
+    - stage: gh-pages push
+      script: echo "pushing changes to gh-pages ..."
+      deploy:
+        provider: pages
+        local-dir: docs
+        skip-cleanup: true
+        github-token: $GH_TOKEN
+        keep-history: true
+        on:
+          branch: master
