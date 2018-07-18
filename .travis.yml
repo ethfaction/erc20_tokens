@@ -1,15 +1,16 @@
 language: node_js
 node_js:
   - "7"
-before_install: 
-  - echo "Installing modules"
-install: 
-  - npm install
 jobs:
   include:
-    - script: npm run-script build
-    - script: echo "build finished!"
     - stage: gh-pages push
+      node_js: "7"
+      before_install: 
+        - echo "Installing modules"
+      install: 
+        - npm install
+      script: npm run-script build
+      script: echo "build finished!"
       script: echo "pushing changes to gh-pages ..."
       deploy:
         provider: pages
