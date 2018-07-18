@@ -1,4 +1,0 @@
-{
-    "TST": "For testing of ERC-20 token apps. Create free TST by calling showMeTheMoney(address _to, uint256 _value).",
-    "AURA": "Aurora DAO is a suite of dApps and protocols that together comprise a fully decentralized and autonomous banking and finance platform. Aurora provides an advanced, open, and stable financial network, accessible by anyone in the world regardless of geographic location or class status. The native network token AURA is an ERC20 token, that aligns the interests of Aurora and the Snowglobe (a fully decentralized exchange protocol) operators."
-}
