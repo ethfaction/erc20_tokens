@@ -11,8 +11,8 @@ jobs:
         - npm install
       script: 
         - npm run-script build
-      script: echo "build finished!"
-      script: echo "pushing changes to gh-pages ..."
+        - echo "build finished!"
+        - echo "pushing changes to gh-pages ..."
       deploy:
         provider: pages
         local-dir: docs
