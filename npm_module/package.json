@@ -1,6 +1,6 @@
 {
   "name": "erc20_tokens",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Fetch standard list of ERC20 tokens on ethereum network. Raw list and APIs can be found at https://github.com/ethfaction/erc20_tokens",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ERC20-tokens, erc20, ethereum, tokens"
+    "ERC20-tokens", "ERC20", "ethereum", "tokens", "ethTokens"
   ],
   "author": "Yadunandan Batchu",
   "license": "MIT",
