@@ -9,7 +9,8 @@ jobs:
         - echo "Installing modules"
       install: 
         - npm install
-      script: npm run-script build
+      script: 
+        - npm run-script build
       script: echo "build finished!"
       script: echo "pushing changes to gh-pages ..."
       deploy:
