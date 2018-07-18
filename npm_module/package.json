@@ -1,6 +1,6 @@
 {
   "name": "erc20_tokens",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fetch standard list of ERC20 tokens on ethereum network. Raw list and APIs can be found at https://github.com/ethfaction/erc20_tokens",
   "main": "index.js",
   "repository": {

@@ -8,7 +8,7 @@ exports.token_data = function(path) {
     ]
     if (supported_paths.indexOf(path) >= 0) {
         var res = request('GET', 'https://ethfaction.github.io/erc20_tokens/mainnet/' + path);
-        return res.getBody('utf-8');
+        return JSON.parse(res.getBody('utf-8'));
     }
     return {
         "error": "format not supported"
