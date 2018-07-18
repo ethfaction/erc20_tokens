@@ -8,11 +8,19 @@ install:
 script: 
   - npm run-script build
   - echo "Build finished"
+before_deploy: cd npm_module
 deploy:
-  provider: pages
-  local-dir: docs
-  skip-cleanup: true
-  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
-  on:
-    branch: master
+  - provider: pages
+    local-dir: ../docs
+    skip-cleanup: true
+    github-token: $GH_TOKEN
+    keep-history: true
+    on:
+      branch: master
+  - provider: npm
+    local-dir: npm_module
+    email: nandubatchu@gmail.com
+    api_key: $NPM_TOKEN
+    on:
+      branch: master
+      tags: true
