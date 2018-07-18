@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ERC20-tokens", "ERC20", "ethereum", "tokens", "ethTokens"
+    "ERC20-tokens", "ERC20", "ethereum", "tokens", "ethTokens", "precision", "contract address", "eth", "list", "json"
   ],
   "author": "Yadunandan Batchu",
   "license": "MIT",
