@@ -5675,7 +5675,8 @@
         "symbol": "BNB",
         "name": "BNB",
         "contract_address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
-        "decimals": 18
+        "decimals": 18,
+        "description": "The Binance Coin is an Ethereum-based token that allows users to receive a discount for any fees on the Binance platform, a pure cryptocurrency exchange that plans to create a decentralized exchange for blockchain assets. BNB also gives users access to special features and will be used to power the upcoming decentralized exchange."
     },
     {
         "symbol": "CAS",
