@@ -1,5 +1,5 @@
 # erc20_tokens (npm_module)
-[![NPM](https://nodei.co/npm/<package>.png)](https://nodei.co/npm/<package>/)
+[![NPM](https://nodei.co/npm/erc20_tokens.png)](https://nodei.co/npm/erc20_tokens/)
 
 Fetch standard list of ERC20 tokens available on ethereum network.
 
