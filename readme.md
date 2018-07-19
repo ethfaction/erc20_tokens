@@ -1,5 +1,5 @@
 # Standard List of ERC20 Tokens on Ethereum:
-[![Build Status](https://travis-ci.com/ethfaction/erc20_tokens.svg?branch=master)](https://travis-ci.com/ethfaction/erc20_tokens) [![npm version](https://badge.fury.io/js/erc20_tokens.svg)](https://badge.fury.io/js/erc20_tokens)
+[![Build Status](https://travis-ci.com/ethfaction/erc20_tokens.svg?branch=master)](https://travis-ci.com/ethfaction/erc20_tokens) [![npm version](https://badge.fury.io/js/erc20_tokens.svg)](https://www.npmjs.com/package/erc20_tokens)
 
 Find the npm module at https://www.npmjs.com/package/erc20_tokens.
 
