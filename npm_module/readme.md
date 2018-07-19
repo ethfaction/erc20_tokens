@@ -1,3 +1,6 @@
+# erc20_tokens (npm_module)
+[![NPM](https://nodei.co/npm/<package>.png)](https://nodei.co/npm/<package>/)
+
 Fetch standard list of ERC20 tokens available on ethereum network.
 
 Raw list of tokens and API endpoints can be found at https://github.com/ethfaction/erc20_tokens.
