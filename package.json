@@ -28,6 +28,7 @@
   "dependencies": {
     "jsonfile": "^4.0.0",
     "request": "^2.87.0",
+    "sleep": "^5.1.1",
     "sync-request": "^6.0.0",
     "web3-utils": "^1.0.0-beta.34"
   }

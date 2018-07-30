@@ -36,3 +36,4 @@ console.log(token_mapping);
 * symbol_to_contract
 * contract_to_symbol
 * symbol_to_description
+* contract_to_abi
