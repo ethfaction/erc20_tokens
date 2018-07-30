@@ -31,8 +31,7 @@ function symbol_to_details(json, dest_file_path) {
         obj[token.symbol] = {
             "name": token.name,
             "contract_address": token.contract_address,
-            "decimals": token.decimals,
-            "contract_abi": token.contract_abi
+            "decimals": token.decimals
         }
     });
 
